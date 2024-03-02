@@ -5,12 +5,12 @@
 
 ## Table of Contents
 
--[Introduction](#introduction)
--[Technologies Used]
--[Tools Used]
--[Functions in Web API]
--[To Get Started]
--[Web API Endpoint]
+-[Introduction](#Introduction)
+-[Technologies Used](#Technologies-Used)
+-[Tools Used](#Tools-Used)
+-[Functions in Web API](#Functions-in-Web-API)
+-[To Get Started](#To-Get-Started)
+-[Web API Endpoint](#Web-API-Endpoint)
 
 ## Introduction
 CDN - Complete Developer Network User Management System is used to build a list of freelancers. 
