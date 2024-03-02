@@ -5,19 +5,19 @@
 
 ## Table of Contents
 
--[Introduction]
--[Technologies Used]
--[Tools Used]
--[Functions in MVC Web Application]
--[To Get Started]
+-[Introduction](#Introduction)
+-[Technologies Used](#Technologies-Used)
+-[Tools Used](#Tool-Used)
+-[Functions in MVC Web Application](#Functions in MVC Web Application)
+-[To Get Started](#To-Get-Started)
 
 ## Introduction
-CDN - Complete Developer Network User Management System is used to build a list of freelancers. 
+CDN User Management System is used to build a list of freelancers. 
 Such that they could have a directory of contact get people for their job.
 
 ## Technologies Used
 - ASP.NET Core MVC
-- - ASP.NET Core Web API
+- ASP.NET Core Web API
 - .NET 6.0 Framework
 - Razor Views
 - MSSQL (RDBMS)
