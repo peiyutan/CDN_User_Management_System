@@ -34,7 +34,7 @@ Such that they could have a directory of contact get people for their job.
 ## To Get Started
 Please follow the steps below to run the project in the localhost:
 1. Install Visual Studio 2022 and Microsoft SSMS if they are not already installed.
-2. Clone the CDN_Freelancers repository in your computer/laptop.
+2. Clone the CDN_User_Management_System repository in your computer/laptop.
 3. Open the project in Visual Studio 2022.
 4. Open 'appsetting.json' file, make sure the server name in the 'ConnectionStrings'matches the server name in your SSMS configuration.
 5. Open 'Tools' > 'NuGet Package Manager' > 'Package Manager Console'.
