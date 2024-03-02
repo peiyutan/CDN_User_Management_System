@@ -36,7 +36,7 @@ CRUD operations:
 ## To Get Started
 Please follow the steps below to run the project in the localhost:
 1. Install Visual Studio 2022 and Microsoft SQL Server Management Studio (SSMS) if they are not already installed.
-2. Clone the CDN_Freelancers repository in your computer/laptop.
+2. Clone the CDN_User_Management_System repository in your computer/laptop.
 3. Open the project in Visual Studio 2022.
 4. In the Solution Explorer, right click the 'Solution CDN_Web_API' and click 'Properties'.
 5. In the Startup Project, click the 'Multiple startup projects'.
