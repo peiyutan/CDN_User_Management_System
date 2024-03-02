@@ -8,7 +8,7 @@
 -[Introduction](#Introduction)
 -[Technologies Used](#Technologies-Used)
 -[Tools Used](#Tool-Used)
--[Functions in MVC Web Application](#Functions in MVC Web Application)
+-[Functions in MVC Web Application](#Functions-in-MVC-Web-Application)
 -[To Get Started](#To-Get-Started)
 
 ## Introduction
