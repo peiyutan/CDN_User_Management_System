@@ -12,7 +12,7 @@
 -[To Get Started](#To-Get-Started)
 
 ## Introduction
-CDN - Complete Developer Network User Management System is used to build a list of freelancers. 
+CDN User Management System is used to build a list of freelancers. 
 Such that they could have a directory of contact get people for their job.
 
 ## Technologies Used
