@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
--[Introduction]
+-[Introduction](#introduction)
 -[Technologies Used]
 -[Tools Used]
 -[Functions in Web API]
@@ -34,10 +34,10 @@ Such that they could have a directory of contact get people for their job.
 
 ## To Get Started
 Please follow the steps below to run the project in the localhost:
-1. Install Visual Studio 2022 and Microsoft SSMS if you dont have.
+1. Install Visual Studio 2022 and Microsoft SSMS if they are not already installed.
 2. Clone the CDN_Freelancers repository in your computer/laptop.
 3. Open the project in Visual Studio 2022.
-4. Open 'appsetting.json' file xxx.
+4. Open 'appsetting.json' file, make sure the server name in the 'ConnectionStrings'matches the server name in your SSMS configuration.
 5. Open 'Tools' > 'NuGet Package Manager' > 'Package Manager Console'.
 6. Write the command 'Add-migration Initial' to add migration.
 7. Write the command 'Update-database' to update the database in SSMS.
